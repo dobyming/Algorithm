@@ -2,8 +2,14 @@
 
 |          순번          |       문제 번호         |        문제 이름         |
 | :-----: | :-----: | :-----: | 
-| 00 | 1431 | <a href="https://www.acmicpc.net/problem/1431">시리얼 번호</a> |
-| 01 | 2529 | <a href="https://www.acmicpc.net/problem/2529">부등호</a> |
-| 02 | 2960 | <a href="https://www.acmicpc.net/problem/2960">에라토스테네스의 체</a> |
+| 00 | 2529 | <a href="https://www.acmicpc.net/problem/2529">부등호</a> |
+| 01 | 2960 | <a href="https://www.acmicpc.net/problem/2960">에라토스테네스의 체</a> |
 
 ## 복기 기록
+
+**2529: 부등호**
+- 23.08.13: dfs인건 알았으나 백트래킹 로직에서 걸렸음
+
+**2960: 에라토스테네스의 체**
+- 23.08.13: 이중 for문 로직 짜는데서 자꾸 꼬였음
+
