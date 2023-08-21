@@ -5,3 +5,5 @@
 | 00 | 11501 | <a href="https://www.acmicpc.net/problem/11501">주식</a> |
 
 ## 복기 기록
+**11501: 주식**
+- 23.08.20: OK
