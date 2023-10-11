@@ -4,3 +4,4 @@
 | :-----: | :-----: | :-----: | :-----: | 
 | 00 | 1244 | <a href="https://www.acmicpc.net/problem/1244">스위치 켜고 끄기</a> | 구현,시뮬레이션 |
 | 01 | 20444 | <a href="https://www.acmicpc.net/problem/20444">색종이와 가위</a> | 이분탐색 |
+| 02 | 9017 | <a href="https://www.acmicpc.net/problem/20444">크로스 컨트리</a> | 구현 |
